@@ -3,7 +3,7 @@
 using namespace std;
 
 // 4. Implement Default Constructor Implementation
-Item :: Item()
+Item ::Item()
 {
   itemCode=0;
   unitPrice=0.0;
